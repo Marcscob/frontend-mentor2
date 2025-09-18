@@ -1,0 +1,29 @@
+
+
+.div1{
+
+ width: 150px;
+ height: 150px;
+ background-color: rgb(238, 144, 29);
+ 
+}
+
+.div2 {
+
+ width: 70px;
+ height: 70px;
+ background-color: rgb(238, 29, 64);
+ margin: auto;
+ display: flex;
+}
+
+.div3 {
+
+ width: 150px;
+ height: 150px;
+ background-color: rgb(29, 57, 238);
+}
+img{
+ width:50px;
+ margin:auto;
+}
